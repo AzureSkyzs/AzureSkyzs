@@ -2,7 +2,7 @@
 -  I’m interested in ... Coding, Gaming, and Art
 -  I’m currently learning ... Python, Gdscipt, and Java
 -  I’m looking to collaborate on ...
--  How to reach me ... Nothing right now
+-  How to reach me ... Redsythc@gmail.com
 
 <!---
 AzureSkyzs/AzureSkyzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
