@@ -1,6 +1,6 @@
 -  Hi, I’m @AzureSkyzs
 -  I’m interested in ... Coding, Gaming, and Art
--  I’m currently learning ... Python, Gdscipt, and Java
+-  I’m currently learning ... Python, Gdscipt, lua, java
 -  I’m looking to collaborate on ...
 -  How to reach me ... Redsythc@gmail.com
 
